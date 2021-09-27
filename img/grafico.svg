@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="603.41376"
+   height="535"
+   version="1.1"
+   id="svg158">
+  <metadata
+     id="metadata164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs162">
+    <linearGradient
+       id="linearGradient1167">
+      <stop
+         style="stop-color:#5e4fa2;stop-opacity:1;"
+         offset="0"
+         id="stop1163" />
+      <stop
+         style="stop-color:#bee5a0;stop-opacity:0.89803922"
+         offset="1"
+         id="stop1165" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1140">
+      <stop
+         style="stop-color:#bee5a0;stop-opacity:1;"
+         offset="0"
+         id="stop1136" />
+      <stop
+         style="stop-color:#fdbe70;stop-opacity:1"
+         offset="1"
+         id="stop1138" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1069">
+      <stop
+         style="stop-color:#bee5a0;stop-opacity:1;"
+         offset="0"
+         id="stop1065" />
+      <stop
+         style="stop-color:#9e0142;stop-opacity:1"
+         offset="1"
+         id="stop1067" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1061">
+      <stop
+         style="stop-color:#5e4fa2;stop-opacity:1;"
+         offset="0"
+         id="stop1057" />
+      <stop
+         style="stop-color:#9e0142;stop-opacity:1"
+         offset="1"
+         id="stop1059" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1052-1">
+      <stop
+         style="stop-color:#fdbe70;stop-opacity:1"
+         offset="0"
+         id="stop1048" />
+      <stop
+         style="stop-color:#9e0142;stop-opacity:1"
+         offset="1"
+         id="stop1050" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.38781488,0,0,1,91.827768,0)"
+       xlink:href="#linearGradient1052-1"
+       id="linearGradient1054"
+       x1="192.87378"
+       y1="173.21921"
+       x2="689.10675"
+       y2="174.46191"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(0.38781488,0,0,1,91.827768,0)"
+       xlink:href="#linearGradient1061"
+       id="linearGradient1063"
+       x1="296.64078"
+       y1="300.81451"
+       x2="626.34949"
+       y2="292.73685"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient1069"
+       id="linearGradient1071"
+       x1="182.93204"
+       y1="227.33163"
+       x2="668.60193"
+       y2="231.0598"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(0.38781488,0,0,1,91.827768,0)"
+       xlink:href="#linearGradient1052-1"
+       id="linearGradient1115"
+       x1="731.72229"
+       y1="198.43048"
+       x2="189.80667"
+       y2="187.88567"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(0.38781488,0,0,1,91.827768,0)"
+       xlink:href="#linearGradient1140"
+       id="linearGradient1142"
+       x1="182.31068"
+       y1="283.63309"
+       x2="659.28156"
+       y2="286.7399"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(0.38781488,0,0,1,91.827768,0)"
+       xlink:href="#linearGradient1140"
+       id="linearGradient1151"
+       x1="648.95142"
+       y1="292.33212"
+       x2="178.97089"
+       y2="283.01175"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(0.38781488,0,0,1,91.827768,0)"
+       xlink:href="#linearGradient1069"
+       id="linearGradient1160"
+       x1="719.16504"
+       y1="217.09351"
+       x2="182.69904"
+       y2="214.60808"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(0.38781488,0,0,1,91.827768,0)"
+       xlink:href="#linearGradient1167"
+       id="linearGradient1169"
+       x1="194.1165"
+       y1="382.24118"
+       x2="674.19415"
+       y2="381.61981"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(0.38781488,0,0,1,91.827768,0)"
+       xlink:href="#linearGradient1167"
+       id="linearGradient1186"
+       x1="715.02637"
+       y1="378"
+       x2="211.33568"
+       y2="378"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     transform="translate(35.362417,25)"
+     id="visualization">
+    <rect
+       id="rect5"
+       fill="#000000"
+       width="175.36243"
+       height="158.73685"
+       y="-5.6843419e-14"
+       x="-25.362417"
+       style="fill:#9e0142;fill-opacity:0.898039;stroke-width:1.08124">
+      <title
+         id="title3">1: 13</title>
+    </rect>
+    <rect
+       id="rect9"
+       fill="#000000"
+       width="175.36243"
+       height="207.57895"
+       y="0"
+       x="382.68893"
+       style="fill:#9e0142;fill-opacity:0.898039;stroke-width:1.08124">
+      <title
+         id="title7">1: 17</title>
+    </rect>
+    <rect
+       id="rect13"
+       fill="#000000"
+       width="175.36241"
+       height="97.684212"
+       y="170.73685"
+       x="-25.362417"
+       style="fill:#fdbe70;fill-opacity:0.898039;stroke-width:1.08124">
+      <title
+         id="title11">2: 8</title>
+    </rect>
+    <rect
+       id="rect17"
+       fill="#000000"
+       width="175.36243"
+       height="48.842106"
+       y="219.57895"
+       x="382.68893"
+       style="fill:#febe6f;fill-opacity:0.898039;stroke-width:1.08124">
+      <title
+         id="title15">2: 4</title>
+    </rect>
+    <rect
+       id="rect21"
+       fill="#000000"
+       width="175.36241"
+       height="85.473686"
+       y="280.42105"
+       x="-25.362417"
+       style="fill:#bee5a0;fill-opacity:0.898039;stroke-width:1.08124">
+      <title
+         id="title19">3: 7</title>
+    </rect>
+    <rect
+       id="rect25"
+       fill="#000000"
+       width="175.36243"
+       height="97.684212"
+       y="280.42105"
+       x="382.68893"
+       style="fill:#bee5a0;fill-opacity:0.898039;stroke-width:1.08124">
+      <title
+         id="title23">3: 8</title>
+    </rect>
+    <rect
+       id="rect29"
+       fill="#000000"
+       width="175.36243"
+       height="109.89474"
+       y="390.10526"
+       x="382.68893"
+       style="fill:#5e4fa2;fill-opacity:0.898039;stroke-width:1.08124">
+      <title
+         id="title27">4: 9</title>
+    </rect>
+    <rect
+       id="rect33"
+       fill="#000000"
+       width="175.36241"
+       height="122.10526"
+       y="377.89474"
+       x="-25.362417"
+       style="fill:#5e4fa2;fill-opacity:0.898039;stroke-width:1.08124">
+      <title
+         id="title31">4: 10</title>
+    </rect>
+    <path
+       id="path1063"
+       d="m 150,341.47461 v 24.41992 c 57.91635,0 86.5009,12.00031 115.58702,24.1582 29.08611,12.1579 58.6738,24.47266 117.10191,24.47266 v -24.41992 c -57.91635,0 -86.5009,-12.00031 -115.58702,-24.1582 C 238.0158,353.78937 208.42811,341.47461 150,341.47461 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient1186);fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:15.2082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <path
+       id="path1067"
+       d="m 150,231.78906 v 36.63282 c 57.69204,0 85.84646,14.84415 114.93258,30.05468 29.08611,15.21053 59.10393,30.78711 117.75635,30.78711 v -36.63281 c -57.69204,0 -85.84646,-14.84416 -114.93258,-30.05469 C 238.67024,247.36564 208.65242,231.78906 150,231.78906 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient1151);fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:22.8123;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <path
+       id="path1071"
+       d="m 150,146.52539 v 12.21094 c 57.81998,0 86.29336,32.94428 115.37947,66.41797 29.08612,33.47368 58.78498,67.47656 117.30946,67.47656 v -12.20898 c -57.81998,0 -86.29336,-32.94429 -115.37947,-66.41797 C 238.22334,180.53022 208.52448,146.52539 150,146.52539 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient1160);fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:7.60406;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <path
+       id="path1075"
+       d="m 150,134.31641 v 12.20898 c 57.94792,0 86.61073,21.0846 115.69684,42.40039 29.08612,21.31579 58.59555,42.86328 116.99209,42.86328 v -12.21094 c -57.94792,0 -86.61073,-21.08264 -115.69685,-42.39843 C 237.90597,155.8639 208.39654,134.31641 150,134.31641 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient1115);fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:7.60406;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <path
+       id="path1079"
+       d="m 382.68893,195.36914 c -58.65242,0 -88.48921,46.52076 -117.57532,92.15234 C 236.02749,333.15306 207.69204,377.89453 150,377.89453 v 12.21094 c 58.65242,0 88.48921,-46.52077 117.57532,-92.15235 29.08612,-45.63158 57.42157,-90.37499 115.11361,-90.375 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient1063);fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:7.60406;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <path
+       id="path1083"
+       d="m 382.68893,353.68359 c -58.36386,0 -87.82871,9.19552 -116.91482,18.30079 C 236.68799,381.08964 207.9806,390.10547 150,390.10547 v 24.41992 c 58.36386,0 87.82871,-9.19357 116.91482,-18.29883 29.08612,-9.10526 57.79351,-18.12109 115.77411,-18.12109 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient1169);fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:15.2082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <path
+       id="path1087"
+       d="m 382.68893,244 c -58.42811,0 -88.0158,12.31476 -117.10191,24.47266 C 236.5009,280.63055 207.91635,292.63086 150,292.63086 v 24.42187 c 58.42811,0 88.0158,-12.31476 117.10191,-24.47265 29.08612,-12.1579 57.67067,-24.1582 115.58702,-24.1582 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient1142);fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:15.2082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <g
+       transform="matrix(0.38781488,0,0,1,91.827768,0)"
+       id="g83"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.9">
+      <path
+         id="path1091"
+         d="m 750,183.1582 c -150.6598,0 -226.88281,24.6139 -301.88281,48.92969 -75,24.31579 -148.77699,48.33398 -298.11719,48.33399 v 12.20898 c 150.6598,0 226.88281,-24.61195 301.88281,-48.92774 75,-24.31579 148.77699,-48.33398 298.11719,-48.33398 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient1071);fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:12.2105;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+      <title
+         id="title81">3 → 1: 1</title>
+    </g>
+    <path
+       id="path1095"
+       d="m 382.68893,134.31641 c -58.5555,0 -88.39983,9.28341 -117.48594,18.38867 C 236.11687,161.81034 207.78897,170.73633 150,170.73633 v 48.84179 c 58.55549,0 88.39983,-9.2834 117.48594,-18.38867 29.08612,-9.10526 57.41402,-18.03125 115.20299,-18.03125 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient1054);fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:30.4163;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <path
+       id="path1099"
+       d="M 150,414.52539 V 500 h 232.68893 v -85.47461 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5e4fa2;fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:53.2286;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <path
+       id="path1103"
+       d="m 150,317.05273 v 24.42188 c 116.21597,0 116.21597,12.20898 232.68893,12.20898 V 329.26367 C 266.47296,329.26367 266.47296,317.05273 150,317.05273 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#bee5a0;fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:15.2082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <g
+       transform="matrix(0.38781488,0,0,1,91.827768,0)"
+       id="g107"
+       style="mix-blend-mode:multiply;fill:none;stroke-opacity:0.9">
+      <path
+         id="path1107"
+         d="m 150,219.57812 v 12.21094 C 449.83434,231.78906 449.83434,244 750,244 v -12.21094 c -299.83434,0 -299.83434,-12.21093 -600,-12.21094 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#fdbe70;fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:12.2105;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+      <title
+         id="title105">2 → 2: 1</title>
+    </g>
+    <path
+       id="path1111"
+       d="M 150,0 V 134.31641 H 382.68893 V 0 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:multiply;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#9e0142;fill-opacity:0.9;fill-rule:nonzero;stroke:none;stroke-width:83.645;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <text
+       id="text151"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7b7b7b"
+       text-anchor="middle"
+       y="-4"
+       x="61.932068">Nivel 2011</text>
+    <text
+       id="text153"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7b7b7b"
+       text-anchor="middle"
+       y="-4"
+       x="457.68893">Nivel 2020</text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
+       x="17.741589"
+       y="87.961334"
+       id="text1192"><tspan
+         id="tspan1190"
+         x="17.741589"
+         y="87.961334">bajo</tspan></text>
+    <text
+       id="text1192-1"
+       y="214.93832"
+       x="17.741587"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="214.93832"
+         x="17.741589"
+         id="tspan1190-2">medio</tspan><tspan
+         y="233.07162"
+         x="17.741587"
+         id="tspan1220">bajo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
+       x="17.741587"
+       y="320.75034"
+       id="text1192-1-1"><tspan
+         id="tspan1220-2"
+         x="17.741589"
+         y="320.75034">medio</tspan><tspan
+         x="17.741587"
+         y="338.88364"
+         id="tspan1245">alto</tspan></text>
+    <text
+       id="text1192-1-1-6"
+       y="447.69086"
+       x="18.059296"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
+       xml:space="preserve"><tspan
+         id="tspan1245-8"
+         y="447.69086"
+         x="18.059296">alto</tspan></text>
+    <text
+       id="text1192-9"
+       y="110.48219"
+       x="514.33276"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="110.48219"
+         x="514.33276"
+         id="tspan1190-3">bajo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
+       x="514.33276"
+       y="239.35938"
+       id="text1192-1-9"><tspan
+         id="tspan1190-2-8"
+         x="514.33276"
+         y="239.35938">medio</tspan><tspan
+         id="tspan1220-3"
+         x="514.33276"
+         y="257.49268">bajo</tspan></text>
+    <text
+       id="text1192-1-1-9"
+       y="326.85559"
+       x="514.33276"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="326.85559"
+         x="514.33276"
+         id="tspan1220-2-1">medio</tspan><tspan
+         id="tspan1245-0"
+         y="344.98889"
+         x="514.33276">alto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#ffffff"
+       x="514.65045"
+       y="453.79611"
+       id="text1192-1-1-6-0"><tspan
+         x="514.65045"
+         y="453.79611"
+         id="tspan1245-8-0">alto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89064"
+       y="8.7866974"
+       id="text1192-94"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8"
+         x="149.89064"
+         y="8.7866974">San Bernardo</tspan></text>
+    <text
+       id="text1192-94-8"
+       y="21.000702"
+       x="149.89064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="21.000702"
+         x="149.89064"
+         id="tspan1190-8-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Pedro Aguirre Cerda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89064"
+       y="33.214684"
+       id="text1192-94-8-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5"
+         x="149.89064"
+         y="33.214684">Conchali</tspan></text>
+    <text
+       id="text1192-94-8-2-9"
+       y="45.42868"
+       x="149.89064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="45.42868"
+         x="149.89064"
+         id="tspan1190-8-0-5-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">La Granja</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89064"
+       y="57.642693"
+       id="text1192-94-8-2-9-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3"
+         x="149.89064"
+         y="57.642693">Buin</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0"
+       y="69.856697"
+       x="149.89064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="69.856697"
+         x="149.89064"
+         id="tspan1190-8-0-5-9-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Padre Hurtado</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89064"
+       y="82.070686"
+       id="text1192-94-8-2-9-3-0-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9"
+         x="149.89064"
+         y="82.070686">El Bosque Melipilla</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8"
+       y="94.284691"
+       x="149.89064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="94.284691"
+         x="149.89064"
+         id="tspan1190-8-0-5-9-3-4-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Cerro Navia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89064"
+       y="106.49869"
+       id="text1192-94-8-2-9-3-0-9-8-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9"
+         x="149.89064"
+         y="106.49869">La Pintana</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-7"
+       y="118.71268"
+       x="149.89064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="118.71268"
+         x="149.89064"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Lo Prado</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-9"
+       y="130.92668"
+       x="149.89064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="130.92668"
+         x="149.89064"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Lo Espejo</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-3"
+       y="143.14067"
+       x="149.89064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="143.14067"
+         x="149.89064"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-02"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Independencia</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73"
+       y="155.30956"
+       x="149.89064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="155.30956"
+         x="149.89064"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">San Joaquín</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89064"
+       y="179.52354"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1"
+         x="149.89064"
+         y="179.52354">Paine</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1"
+       y="191.73755"
+       x="149.89064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="191.73755"
+         x="149.89064"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Cerrillos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89066"
+       y="203.95155"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0"
+         x="149.89066"
+         y="203.95155">Talagante</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7"
+       y="216.16556"
+       x="149.89066"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="216.16556"
+         x="149.89066"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Renca</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89066"
+       y="228.37956"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9"
+         x="149.89066"
+         y="228.37956">Peñaflor</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-5"
+       y="240.59357"
+       x="149.89066"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="240.59357"
+         x="149.89066"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Peñalolén</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89069"
+       y="252.80757"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-5-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-6-7"
+         x="149.89069"
+         y="252.80757">Estación Central</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-5-1-9"
+       y="265.02158"
+       x="149.8907"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="265.02158"
+         x="149.8907"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-6-7-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">La Cisterna</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-5"
+       y="289.20776"
+       x="149.89064"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="289.20776"
+         x="149.89064"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-92"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Recoleta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89064"
+       y="301.42178"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-6"
+         x="151.89064"
+         y="301.42178">Lampa </tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-2"
+       y="313.63577"
+       x="149.89066"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="313.63577"
+         x="149.89066"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Pudahuel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89066"
+       y="325.84979"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-6"
+         x="149.89066"
+         y="325.84979">La Florida</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-0"
+       y="338.06378"
+       x="149.89066"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="338.06378"
+         x="149.89066"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Huechuraba</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89066"
+       y="350.2778"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-5-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-6-3"
+         x="149.89066"
+         y="350.2778">San Miguel</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-5-1-7"
+       y="362.49179"
+       x="149.89069"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="362.49179"
+         x="149.89069"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-6-7-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Macul</tspan></text>
+    <text
+       id="text1192-94-9"
+       y="386.68146"
+       x="149.89062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="386.68146"
+         x="149.89062"
+         id="tspan1190-8-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Puente Alto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89062"
+       y="398.89545"
+       id="text1192-94-8-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-9"
+         x="149.89062"
+         y="398.89545">Maipú</tspan></text>
+    <text
+       id="text1192-94-8-2-2"
+       y="411.10944"
+       x="149.89062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="411.10944"
+         x="149.89062"
+         id="tspan1190-8-0-5-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Colina</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89062"
+       y="423.32343"
+       id="text1192-94-8-2-9-32"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-9"
+         x="149.89062"
+         y="423.32343">Providencia</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-8"
+       y="435.53741"
+       x="149.89062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="435.53741"
+         x="149.89062"
+         id="tspan1190-8-0-5-9-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Las Condes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89062"
+       y="447.75143"
+       id="text1192-94-8-2-9-3-0-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-98"
+         x="149.89062"
+         y="447.75143">Vitacura</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-6"
+       y="459.96542"
+       x="149.89062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="459.96542"
+         x="149.89062"
+         id="tspan1190-8-0-5-9-3-4-9-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Lo Barnechea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89062"
+       y="472.17944"
+       id="text1192-94-8-2-9-3-0-9-8-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-3"
+         x="149.89062"
+         y="472.17944">La Reina</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-8"
+       y="484.39343"
+       x="149.89062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="484.39343"
+         x="149.89062"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-13"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Nuñoa Santiago</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="149.89062"
+       y="496.60742"
+       id="text1192-94-8-2-9-3-0-9-8-1-7-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-8-7"
+         x="149.89062"
+         y="496.60742">Quilicura</tspan></text>
+    <text
+       id="text1192-94-2"
+       y="8.7866974"
+       x="437.89224"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="8.7866974"
+         x="437.89224"
+         id="tspan1190-8-14"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">San Bernardo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="463.7048"
+       y="21.000702"
+       id="text1192-94-8-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-4"
+         x="463.7048"
+         y="21.000702">Pedro Aguirre Cerda</tspan></text>
+    <text
+       id="text1192-94-8-2-6"
+       y="33.214676"
+       x="418.06406"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="33.214676"
+         x="418.06406"
+         id="tspan1190-8-0-5-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Conchali</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="420.93387"
+       y="45.42868"
+       id="text1192-94-8-2-9-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-8"
+         x="420.93387"
+         y="45.42868">La Granja</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-6"
+       y="57.6427"
+       x="400.72543"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="57.6427"
+         x="400.72543"
+         id="tspan1190-8-0-5-9-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Buin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="441.01724"
+       y="69.856689"
+       id="text1192-94-8-2-9-3-0-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-5"
+         x="441.01724"
+         y="69.856689">Padre Hurtado</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-4"
+       y="82.070679"
+       x="459.78812"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="82.070679"
+         x="459.78812"
+         id="tspan1190-8-0-5-9-3-4-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">El Bosque Melipilla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="429.02243"
+       y="94.284698"
+       id="text1192-94-8-2-9-3-0-9-8-9"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-7"
+         x="429.02243"
+         y="94.284698">Cerro Navia</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-1"
+       y="106.49869"
+       x="425.32968"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="106.49869"
+         x="425.32968"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">La Pintana</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="417.32968"
+       y="118.71268"
+       id="text1192-94-8-2-9-3-0-9-8-1-7-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-8-1"
+         x="417.32968"
+         y="118.71268">Lo Prado</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="420.37137"
+       y="130.92667"
+       id="text1192-94-8-2-9-3-0-9-8-1-9-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-0-2"
+         x="420.37137"
+         y="130.92667">Lo Espejo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="442.53806"
+       y="228.36566"
+       id="text1192-94-8-2-9-3-0-9-8-1-3-5"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-02-0"
+         x="442.53806"
+         y="228.36566">Independencia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="431.39224"
+       y="289.20779"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-6"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-4"
+         x="431.39224"
+         y="289.20779">San Joaquín</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-56"
+       y="143.14067"
+       x="405.05881"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="143.14067"
+         x="405.05881"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Paine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="416.43906"
+       y="155.35469"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-3"
+         x="416.43906"
+         y="155.35469">Cerrillos</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-76"
+       y="167.56868"
+       x="422.56406"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="167.56868"
+         x="422.56406"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Talagante</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="407.55881"
+       y="179.7827"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-68"
+         x="407.55881"
+         y="179.7827">Renca</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-55"
+       y="240.57967"
+       x="416.45468"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="240.57967"
+         x="416.45468"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Peñaflor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="422.55887"
+       y="301.42175"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-5-3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-6-0"
+         x="422.55887"
+         y="301.42175">Peñalolén</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-5-1-3"
+       y="313.63574"
+       x="449.22562"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="313.63574"
+         x="449.22562"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-6-7-77"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Estación Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="428.01718"
+       y="325.84976"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-5-1-9-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-6-7-7-8"
+         x="428.01718"
+         y="325.84976">La Cisterna</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="418.20468"
+       y="191.9967"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-5-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-92-1"
+         x="418.20468"
+         y="191.9967">Recoleta</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-1-1"
+       y="252.79367"
+       x="409.30881"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="252.79367"
+         x="411.30881"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Lampa </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="420.35049"
+       y="265.00766"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-2-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-8-0"
+         x="420.35049"
+         y="265.00766">Pudahuel</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-7-7"
+       y="338.06372"
+       x="421.80887"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="338.06372"
+         x="421.80887"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">La Florida</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="431.66306"
+       y="350.27771"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-0-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-1-9"
+         x="431.66306"
+         y="350.27771">Huechuraba</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-5-4-9"
+       y="398.89548"
+       x="428.14218"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="398.89548"
+         x="428.14218"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-6-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">San Miguel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="407.45462"
+       y="411.10947"
+       id="text1192-94-8-2-9-3-0-9-8-1-73-4-1-0-7-5-5-1-7-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-1-1-9-0-3-9-6-7-8-6"
+         x="407.45462"
+         y="411.10947">Macul</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="428.97556"
+       y="204.21068"
+       id="text1192-94-9-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-1-5"
+         x="428.97556"
+         y="204.21068">Puente Alto</tspan></text>
+    <text
+       id="text1192-94-8-6-5"
+       y="362.4917"
+       x="407.80881"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="362.4917"
+         x="407.80881"
+         id="tspan1190-8-0-9-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Maipú</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="408.2515"
+       y="374.70569"
+       id="text1192-94-8-2-2-7"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-0-8"
+         x="408.2515"
+         y="374.70569">Colina</tspan></text>
+    <text
+       id="text1192-94-8-2-9-32-7"
+       y="423.32339"
+       x="429.53806"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="423.32339"
+         x="429.53806"
+         id="tspan1190-8-0-5-9-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Providencia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="428.16306"
+       y="435.53738"
+       id="text1192-94-8-2-9-3-8-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-9-5"
+         x="428.16306"
+         y="435.53738">Las Condes</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-1-0"
+       y="447.75143"
+       x="416.93906"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="447.75143"
+         x="416.93906"
+         id="tspan1190-8-0-5-9-3-4-98-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Vitacura</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="437.64224"
+       y="459.96542"
+       id="text1192-94-8-2-9-3-0-9-6-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-8-7"
+         x="437.64224"
+         y="459.96542">Lo Barnechea</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-8-1"
+       y="472.17941"
+       x="416.99631"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="472.17941"
+         x="416.99631"
+         id="tspan1190-8-0-5-9-3-4-9-2-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">La Reina</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       x="446.67874"
+       y="484.3934"
+       id="text1192-94-8-2-9-3-0-9-8-1-8-2"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-13-3"
+         x="446.67874"
+         y="484.3934">Nuñoa Santiago</tspan></text>
+    <text
+       id="text1192-94-8-2-9-3-0-9-8-1-7-0-8"
+       y="496.60739"
+       x="419.18906"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0.85;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff"
+       xml:space="preserve"><tspan
+         y="496.60739"
+         x="419.18906"
+         id="tspan1190-8-0-5-9-3-4-9-2-9-8-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end">Quilicura</tspan></text>
+  </g>
+</svg>
